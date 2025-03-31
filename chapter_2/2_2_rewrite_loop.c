@@ -10,7 +10,6 @@ int main() {
 
     s[i] = c;
   }
-    
 
   return 0;
 }
